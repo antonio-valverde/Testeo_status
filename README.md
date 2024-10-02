@@ -2,6 +2,6 @@
 
 Indica aquí el titulo del proyecto.
 
-## Descripción :rocke:
+## Descripción rocke 🚀
 
-Da una descripción breve de en qué consiste tu proyecto 
+Da una descripción breve de en qué consiste tu proyecto .Cambio
